@@ -1,7 +1,7 @@
 // api-service.js for Netlify + Render deployment
 
 // Production API URL (will be set during Netlify build)
-const API_BASE = 'http://localhost:5000/api/students';
+const API_BASE = 'https://resulthub-i9mt.onrender.com/api/students';
 
 console.log('API Base URL:', API_BASE);
 
